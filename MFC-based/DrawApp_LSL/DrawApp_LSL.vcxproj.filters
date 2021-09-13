@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DrawApp_LSL.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawApp_LSLDoc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawApp_LSLView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Fig.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyLine.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyRect.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyEllipse.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyText.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AllTypeNum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ChooseColor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AllHead.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ChoosePenType.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SetPenWidth.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="InputText.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="User1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="User2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="User3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Sheet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyFree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Eraser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DrawApp_LSL.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawApp_LSLDoc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawApp_LSLView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Fig.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyLine.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyRect.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyEllipse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyText.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ChooseColor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ChoosePenType.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SetPenWidth.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="InputText.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="User1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="User2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="User3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Sheet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyFree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Eraser.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DrawApp_LSL.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\DrawApp_LSL.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\cursor1.cur">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\cursor2.cur">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\cursor3.cur">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\cursor4.cur">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\cursor5.cur">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\cursor6.cur">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\DrawApp_LSLDoc.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\DrawApp_LSL.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icon1.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
